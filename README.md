@@ -30,8 +30,8 @@ Python 3.10 yoki undan yangisi kerak.
 1. Loyihani yuklab oling:
 
 ```bash
-git clone https://github.com/USERNAME/REPO.git
-cd REPO
+git clone https://github.com/Lochinbekov/tvshowuz-bot.git
+cd tvshowuz-bot
 ```
 
 2. Kutubxonalarni o'rnating:
